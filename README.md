@@ -1,4 +1,4 @@
-# FullStack
+# FullStack.    
 
 * Bulk Email Sending: The application will enable the sending of a large number of emails to different users.
 
